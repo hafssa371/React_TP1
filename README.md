@@ -1,4 +1,4 @@
-"# reactTp" 
+"# React_TP1" 
 
 
 # Compte Client - Application React
@@ -9,10 +9,9 @@
 ## Fonctionnalités
 - **Liste des comptes** : Affichage d'une table listant les comptes clients (ID, solde, date de création, type).
 - **Ajout de comptes** : Formulaire permettant d'ajouter un compte avec les informations suivantes :
-  - Solde
-  - Date de création
-  - Type (Courant/Épargne)
 - **Modification  de comptes** *
-- - **Suppression de comptes**     
+-  **Suppression de comptes**     
 - **Communication avec une API REST** : Gestion des données via des appels HTTP avec Axios.
-"# React_TP1" 
+"# React_TP1"
+
+
