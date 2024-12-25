@@ -14,7 +14,9 @@
 - **Communication avec une API REST** : Gestion des données via des appels HTTP avec Axios.
 
   https://github.com/hafssa371/React_TP1/issues/1#issue-2758821461
-  Védio demo
+  
+  Vidéo demo
+  
 "# React_TP1"
 
 
